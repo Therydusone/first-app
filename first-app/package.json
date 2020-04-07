@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "https://Therydusone.github.io/first-app",
   "dependencies": {
+    "acorn": "^7.1.1",
     "acron": "^1.0.5",
     "gh-pages": "^2.1.1",
     "kind-of": "^6.0.3",
